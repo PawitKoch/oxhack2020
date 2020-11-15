@@ -15,6 +15,9 @@
 
 *_requires dotenv setup, an Azure Computer Vision endpoint, a MongoDB database and respective credentials
 
+## Our submission to OxHack 2020
+https://devpost.com/software/papersnap
+
 ## Key contributors
 
 Ben, Jye, Pawit, Will
