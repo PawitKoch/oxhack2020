@@ -1,7 +1,7 @@
 ### oxhack2020
 # PaperSnap: Leave your stylus behind
 
-![alt text | 512x397,20%](https://github.com/PawitKoch/oxhack2020/blob/main/flutter/assets/snap-logo.png)
+![pic|200x200](https://github.com/PawitKoch/oxhack2020/blob/main/flutter/assets/snap-logo.png)
 
 ## Setup instructions:
 1. **Clone the repository**
