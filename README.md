@@ -8,8 +8,8 @@
 2. **npm install in the /back-end/ and /front-end/ repositories respectively**
 3. **flutter doctor in /flutter/**
 4. **launch the app (requires real device, not emulator)**
-5. **launch the back-end server (user-authen still needs to be done)** 
-6. **launch the front-end**
+5. **launch the back-end server on localhost (user-authen still needs to be done)** 
+6. **launch the front-end on localhost**
 7. **...?**
 8. **profit**
 
